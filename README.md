@@ -45,11 +45,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2025-10-23 at 11 36 15_0187f732](https://github.com/user-attachments/assets/b8167ac8-27c2-4f14-bc1e-bac4f11ee035)
 
-![exp3op1](https://github.com/user-attachments/assets/de346fa9-2210-4690-bbd1-00c9e35b561d)
-
-![exp3op2](https://github.com/user-attachments/assets/fdfea0a4-7ae1-4fad-8539-dec5c5cbc2f4)
-
+![WhatsApp Image 2025-10-23 at 11 35 54_1f1a30e8](https://github.com/user-attachments/assets/4c13f5de-c2bd-406d-ae2f-f2307ab3854e)
 
 
 ### Name: Hemachandiran J
